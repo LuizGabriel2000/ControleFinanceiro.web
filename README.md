@@ -1,2 +1,2 @@
 # ControleFinanceiro-
-Um controle financeiro para facilitar e controlar os gatosos, desenvolvido em Vue.
+Um controle financeiro para facilitar e controlar os gastos, desenvolvido em Vue.
