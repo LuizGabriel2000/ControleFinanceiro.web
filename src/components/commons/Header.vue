@@ -12,8 +12,8 @@
           src="https://images.vexels.com/media/users/3/143188/isolated/preview/5f44f3160a09b51b4fa4634ecdff62dd-icone-de-dinheiro.png"
           width="100"
         />
-        <strong style="font-size: 28px; color:black">Controle </strong>
-        <div style="font-size: 22px"> financeiro</div>
+        <strong style="font-size: 28px; color:black">Controle</strong>
+        <div class="ml-2" style="font-size: 22px"> Financeiro</div>
       </div>
 
       <v-spacer></v-spacer>
